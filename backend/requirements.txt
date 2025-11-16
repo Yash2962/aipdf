@@ -3,6 +3,6 @@ uvicorn
 python-multipart
 python-dotenv
 PyPDF2
-supabase-py
+supabase
 pinecone-client
 openai
